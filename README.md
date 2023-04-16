@@ -8,7 +8,7 @@ Watch the video on [YouTube](https://youtu.be/wtolixa9XTg).
 
 Learn some math basics! Focus only on these topics, then come back later in case you need to learn more.
 
- * [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+ * [][Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
  * [Khan Academy - Differential Equations](https://www.khanacademy.org/math/differential-equations)
  * [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
  * [Khan Academy - Statistics Probability](https://www.khanacademy.org/math/statistics-probability)
@@ -16,7 +16,7 @@ Learn some math basics! Focus only on these topics, then come back later in case
  
 ## 2. Learn Python
 
-* [4h Beginner Course](https://youtu.be/rfscVS0vtbw)
+* [x][4h Beginner Course](https://youtu.be/rfscVS0vtbw) - Done
 * [6h Intermediate Python Programming Course](https://youtu.be/HGOBQPFzWKo)
 
 ## 3. Learn The ML Tech Stack:
