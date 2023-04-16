@@ -16,7 +16,7 @@ Learn some math basics! Focus only on these topics, then come back later in case
  
 ## 2. Learn Python
 
-* [x][4h Beginner Course](https://youtu.be/rfscVS0vtbw) - Done
+- [x] [4h Beginner Course](https://youtu.be/rfscVS0vtbw) - Done
 * [6h Intermediate Python Programming Course](https://youtu.be/HGOBQPFzWKo)
 
 ## 3. Learn The ML Tech Stack:
